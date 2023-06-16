@@ -1,0 +1,50 @@
+[
+    {
+        "image": {
+            "src": "book/11.webp",
+            "width": 240,
+            "height": 300
+        },
+        "datepost": "2021-09-01",
+        "title": "Ensiklopedia Nusantara",
+        "genre": "Abstrak",
+        "author": "Igrea Siswanto, dkk ;",
+        "year": "2018"
+    },
+    {
+        "image": {
+            "src": "book/14.webp",
+            "width": 240,
+            "height": 300
+        },
+        "datepost": "2021-12-01",
+        "title": "Kamus Gereja Katolik Bagi Kaum Awam",
+        "genre": "Abstrak",
+        "author": "AL. Purwa Hadiwardoyo, MSF",
+        "year": "2020"
+    },
+    {
+        "image": {
+            "src": "book/12.webp",
+            "width": 240,
+            "height": 300
+        },
+        "datepost": "2021-12-01",
+        "title": "Inovasi Perpustakaan Di Era Covid-19 : Konteks Pelayanan dan Pemanfaatan Teknologi",
+        "genre": "Abstrak",
+        "author": "Ubudiyah Setiawati, S.Sos., M.I.Kom., Nurriska Amalina, S.Pd., Mia Hayati Kosasih, S.Md.Kom., Calis Maryani, S.Sos., Taufiq Anugerah, Sendi Sudrajat, A.Md., Sri Utami Lestari, A.Md., Sri Mulyati, S.Ipus., Ana Fadhilah, S.Ipus., Nurdin Mutahul Ulum ; Edito",
+        "year": "2021"
+    },
+    {
+        "image": {
+            "src": "book/13.webp",
+            "width": 240,
+            "height": 300
+        },
+        "datepost": "2021-12-01",
+        "title": "So You Want To Be A Librarian",
+        "genre": "Abstrak",
+        "author": "Lauren Pressley",
+        "year": "2009"
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+      "image": {
+        "src": "news/1.webp",
+        "width": 300,
+        "height": 200
+      },
+      "title": "Komisi X DPR RI Setujui Pagu Indikatif Perpusnas",
+      "date": "2023-06-09",
+      "theme": "Berita Artikel"
+    },
+    {
+      "image": {
+        "src": "news/2.webp",
+        "width": 300,
+        "height": 200
+      },
+      "title": "Gerakan Satu Masjid Satu Perpustakaan, Lahirkan Ide Cemerlang dari Masjid",
+      "date": "2023-06-09",
+      "theme": "Berita Artikel"
+    },
+    {
+      "image": {
+        "src": "news/3.webp",
+        "width": 300,
+        "height": 200
+      },
+      "title": "Kepala Perpusnas: Alih Media Naskah Kuno Nusantara Harus Dilakukan Agar Mudah Diakses dan Dipahami",
+      "date": "2023-05-29",
+      "theme": "Berita Artikel"
+    }
+  ]
+  

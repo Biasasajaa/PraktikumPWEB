@@ -1,0 +1,27 @@
+.flex-button {
+    box-sizing: border-box;
+    margin: 40px;
+}
+
+.radio {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.radiobutton {
+    background-color: rgb(1, 34, 105);
+    border-radius: 100px 0 0 100px;
+    padding: 20px;
+}
+
+.stream {
+    background-color: rgb(1, 34, 105);
+    border-radius: 0 100px 100px 0;
+}
+
+.stream h3 {
+    padding: 31px;
+    font-size: xx-large;
+    color: white;
+}
